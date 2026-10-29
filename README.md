@@ -1,4 +1,4 @@
-# FORMScope – AI-Based Workout Form Correction System
+# KinetiQ – AI-Based Workout Form Correction System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose-orange)
@@ -10,11 +10,11 @@
 
 # 📌 Overview
 
-FORMScope is an AI-powered workout form correction system that performs **real-time human pose estimation** using a webcam and provides intelligent feedback to help users improve exercise technique.
+KinetiQ is an AI-powered workout form correction system that performs **real-time human pose estimation** using a webcam and provides intelligent feedback to help users improve exercise technique.
 
 The system combines **Google MediaPipe Pose**, **OpenCV**, **Flask**, **Computer Vision**, and **Machine Learning** to analyze body posture, calculate biomechanical joint angles, count repetitions, evaluate exercise quality, and provide instant visual, audio, and dashboard-based feedback.
 
-Unlike traditional fitness trackers that only count repetitions, FORMScope focuses on **movement quality**, helping users perform exercises safely and efficiently.
+Unlike traditional fitness trackers that only count repetitions, KinetiQ focuses on **movement quality**, helping users perform exercises safely and efficiently.
 
 ---
 
@@ -22,7 +22,7 @@ Unlike traditional fitness trackers that only count repetitions, FORMScope focus
 
 Incorrect exercise posture is one of the leading causes of gym-related injuries and ineffective workouts.
 
-FORMScope aims to make professional-quality exercise guidance accessible to everyone by providing:
+KinetiQ aims to make professional-quality exercise guidance accessible to everyone by providing:
 
 - 🏋️ Real-time workout posture correction
 - 🎯 Biomechanical form analysis
@@ -38,7 +38,7 @@ The project demonstrates how **Artificial Intelligence**, **Computer Vision**, a
 # 📂 Project Structure
 
 ```
-FORMScope/
+KinetiQ/
 │
 ├── exercises/
 │   ├── base.py
